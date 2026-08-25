@@ -1,13 +1,16 @@
+<!-- Animated wave banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:9333ea&height=210&section=header&text=NGUY%E1%BB%84N%20ANH%20T%C3%9A&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Full-stack%20Developer%20%C2%B7%20Automation%20Engineer%20%C2%B7%20%C4%90%C3%A0%20N%E1%BA%B5ng%2C%20Vietnam&descSize=18&descAlignY=75" alt="banner"/>
+
 <div align="center">
 
-# Hi, I'm Tú 👋
+<!-- Typing animation -->
+<a href="https://github.com/anhtudotinfo">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&center=true&vCenter=true&width=620&height=48&color=7C3AED&lines=AI+Agents+%26+Browser+Automation;Self-hosted+Infrastructure+Enthusiast;Civic-tech+Builder;Never+stop+building+%E2%9A%A1" alt="typing" />
+</a>
 
-### Full-stack developer & automation engineer — Đà Nẵng, Vietnam
-
-I build AI-powered automation, self-hosted infrastructure, and civic-tech platforms.
-
-[![Website](https://img.shields.io/badge/🌐_anhtu.info-0A66C2?style=for-the-badge)](https://anhtu.info)
-[![Email](https://img.shields.io/badge/Email-nguyenanhtu.niit@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenanhtu.niit@gmail.com)
+[![Website](https://img.shields.io/badge/🌐_anhtu.info-4F46E5?style=for-the-badge)](https://anhtu.info)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenanhtu.niit@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=anhtudotinfo&style=for-the-badge&color=7c3aed&label=VISITORS)
 
 </div>
 
@@ -23,6 +26,8 @@ I build AI-powered automation, self-hosted infrastructure, and civic-tech platfo
 > 🔒 Most of my production work lives in **private repositories** — the public side of this profile is only the tip of the iceberg. Happy to talk about any of it.
 
 ## 🧰 Tech stack
+
+<div align="center">
 
 **Languages**
 
@@ -52,12 +57,21 @@ I build AI-powered automation, self-hosted infrastructure, and civic-tech platfo
 ![Dify](https://img.shields.io/badge/Dify-1C64F2?style=flat-square)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
 
-## 📊 GitHub stats
+</div>
+
+## 📊 GitHub activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anhtudotinfo&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtudotinfo&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
+<img src="https://streak-stats.demolab.com?user=anhtudotinfo&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+
+<img src="https://ghchart.rshah.org/7c3aed/anhtudotinfo" alt="Contribution graph" width="100%" />
+
+<!-- Contribution snake animation (generated daily by GitHub Action) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anhtudotinfo/anhtudotinfo/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/anhtudotinfo/anhtudotinfo/output/github-snake-light.svg" width="100%" />
+</picture>
 
 </div>
 
@@ -66,6 +80,4 @@ I build AI-powered automation, self-hosted infrastructure, and civic-tech platfo
 - 🌐 Website: [anhtu.info](https://anhtu.info)
 - ✉️ Email: [nguyenanhtu.niit@gmail.com](mailto:nguyenanhtu.niit@gmail.com)
 
-<div align="center">
-<sub>⚡ Never stop building — automation is a lifestyle, not a feature.</sub>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,50:7c3aed,100:4f46e5&height=110&section=footer" alt="footer"/>
