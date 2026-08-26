@@ -28,10 +28,49 @@ const tu = {
 
 ## 🚀 What I do
 
-- 🤖 **AI & Automation** — a multi-profile (antidetect) browser platform with no-code automation: Playwright engine, Django backend, React desktop app. Plus LLM agent tooling and n8n pipelines.
-- 🏛️ **Civic tech** — citizen-feedback, survey and reporting portals for local government in Đà Nẵng (Django 5 + Tailwind + Claude AI): idea-crowdsourcing, public-asset management, OTP-verified online reporting.
-- 🖥️ **Self-hosted everything** — a private AI platform built on Dify, a customized Tabby terminal + Tabby Web stack (custom auth, config sync, SSH gateway, all in Docker), MikroTik network management.
-- 🔧 **Desktop & systems** — Electron and Python desktop apps, auto-update and licensing systems, deep Windows automation with PowerShell.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI &amp; Automation</h3>
+      <p>Multi-profile antidetect browser platform with no-code automation — Playwright engine, Django backend, React desktop. Plus LLM agent tooling &amp; n8n pipelines.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏛️ Civic Tech</h3>
+      <p>Citizen-feedback, survey &amp; reporting portals for local government in Đà Nẵng — idea crowdsourcing, public-asset management, OTP-verified online reporting.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Django_5-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖥️ Self-hosted Infra</h3>
+      <p>A private AI platform on Dify, a customized Tabby terminal + Tabby Web stack (custom auth, config sync, SSH gateway, all in Docker), MikroTik network management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Dify-1C64F2?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔧 Desktop &amp; Systems</h3>
+      <p>Electron &amp; Python desktop apps, auto-update &amp; licensing systems, and deep Windows automation with PowerShell.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 🧰 Tech stack
 
